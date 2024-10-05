@@ -25,9 +25,9 @@ target = [1.0, 0.0, 1.0]
 ```
 Results of predictions after training are very good :
 ```python
-[Value(data=0.9826529966007654, size=56Bytes),
- Value(data=0.000856126549434292, size=56Bytes),
- Value(data=0.9826529966007654, size=56Bytes)]
+[Value(data=0.9826529966007654),
+ Value(data=0.000856126549434292),
+ Value(data=0.9826529966007654)]
 ```
 
 The only imports used in autodiff.ipynb are numpy, math and mathplotlib.
